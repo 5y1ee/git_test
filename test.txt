@@ -1,0 +1,1 @@
+input i to swith to insert mode;
