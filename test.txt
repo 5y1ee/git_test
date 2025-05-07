@@ -1,8 +1,1 @@
 input i to swith to insert mode;
-<<<<<<< HEAD
-
-second
-
-third
-=======
->>>>>>> parent of 84d5367 (second commit msg)
