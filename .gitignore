@@ -1,2 +1,4 @@
 db.properties
 /bin/
+.classpath
+.project
